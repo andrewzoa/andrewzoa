@@ -1,2 +1,2 @@
-# andrewzoa.github.io
+# ISAAC PULAMTE
 Config files for my GitHub profile.
